@@ -1,0 +1,19 @@
+﻿{
+  "ProgramData": {
+    "AdminUID": [],
+    "MaxWaitCount": 30
+  },
+  "GameData": {
+    "GamePath": "C:\\Users\\32512\\Downloads\\Programs\\Buckshot Roulette.exe",
+    "UseOpenGL3": false
+  },
+  "OpenBLiveData": {
+    "AccessKeyId": "",
+    "AccessKeySecret": "",
+    "AnchorID": "",
+    "AppId": ""
+  },
+  "PlayersData": {
+    "Players": []
+  }
+}
